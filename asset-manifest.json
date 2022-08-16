@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/papoll/static/css/main.67313951.css",
+    "main.js": "/papoll/static/js/main.9e9a4f6b.js",
+    "static/js/787.091a7645.chunk.js": "/papoll/static/js/787.091a7645.chunk.js",
+    "index.html": "/papoll/index.html",
+    "main.67313951.css.map": "/papoll/static/css/main.67313951.css.map",
+    "main.9e9a4f6b.js.map": "/papoll/static/js/main.9e9a4f6b.js.map",
+    "787.091a7645.chunk.js.map": "/papoll/static/js/787.091a7645.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67313951.css",
+    "static/js/main.9e9a4f6b.js"
+  ]
+}
